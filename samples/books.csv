@@ -1,0 +1,41 @@
+id,title,subtitle,series,grade_band,level,pages,color,cover_image
+RL-A-01,Animals Near Home,Finding the creatures that share our streets,Reading Level A - Unit 1,Grades K-1,A,20,#2F6F9F,covers/cover-a-01.png
+RL-A-02,Weather Watch,"Clouds, wind and what tomorrow brings",Reading Level A - Unit 2,Grades K-1,A,24,#2F6F9F,covers/cover-a-02.png
+RL-A-03,Maps and Journeys,How people find their way,Reading Level A - Unit 3,Grades K-1,A,16,#2F6F9F,covers/cover-a-03.png
+RL-A-04,Shapes All Around,"Spotting circles, squares and triangles",Reading Level A - Unit 4,Grades K-1,A,20,#2F6F9F,covers/cover-a-04.png
+RL-A-05,Kitchen Science,Simple experiments with everyday things,Reading Level A - Unit 5,Grades K-1,A,24,#2F6F9F,covers/cover-a-05.png
+RL-A-06,Life in a Pond,Who lives above and below the surface,Reading Level A - Unit 6,Grades K-1,A,16,#2F6F9F,covers/cover-a-06.png
+RL-A-07,Tools and Machines,From levers to wheels,Reading Level A - Unit 7,Grades K-1,A,20,#2F6F9F,covers/cover-a-07.png
+RL-A-08,Night Sky,"Stars, planets and the moon",Reading Level A - Unit 8,Grades K-1,A,24,#2F6F9F,covers/cover-a-08.png
+RL-B-01,Animals Near Home,Finding the creatures that share our streets,Reading Level B - Unit 1,Grades 1-2,B,28,#3C8D6E,covers/cover-b-01.png
+RL-B-02,Weather Watch,"Clouds, wind and what tomorrow brings",Reading Level B - Unit 2,Grades 1-2,B,32,#3C8D6E,covers/cover-b-02.png
+RL-B-03,Maps and Journeys,How people find their way,Reading Level B - Unit 3,Grades 1-2,B,24,#3C8D6E,covers/cover-b-03.png
+RL-B-04,Shapes All Around,"Spotting circles, squares and triangles",Reading Level B - Unit 4,Grades 1-2,B,28,#3C8D6E,covers/cover-b-04.png
+RL-B-05,Kitchen Science,Simple experiments with everyday things,Reading Level B - Unit 5,Grades 1-2,B,32,#3C8D6E,covers/cover-b-05.png
+RL-B-06,Life in a Pond,Who lives above and below the surface,Reading Level B - Unit 6,Grades 1-2,B,24,#3C8D6E,covers/cover-b-06.png
+RL-B-07,Tools and Machines,From levers to wheels,Reading Level B - Unit 7,Grades 1-2,B,28,#3C8D6E,covers/cover-b-07.png
+RL-B-08,Night Sky,"Stars, planets and the moon",Reading Level B - Unit 8,Grades 1-2,B,32,#3C8D6E,covers/cover-b-08.png
+RL-C-01,Animals Near Home,Finding the creatures that share our streets,Reading Level C - Unit 1,Grades 2-3,C,36,#C0652B,covers/cover-c-01.png
+RL-C-02,Weather Watch,"Clouds, wind and what tomorrow brings",Reading Level C - Unit 2,Grades 2-3,C,40,#C0652B,covers/cover-c-02.png
+RL-C-03,Maps and Journeys,How people find their way,Reading Level C - Unit 3,Grades 2-3,C,32,#C0652B,covers/cover-c-03.png
+RL-C-04,Shapes All Around,"Spotting circles, squares and triangles",Reading Level C - Unit 4,Grades 2-3,C,36,#C0652B,covers/cover-c-04.png
+RL-C-05,Kitchen Science,Simple experiments with everyday things,Reading Level C - Unit 5,Grades 2-3,C,40,#C0652B,covers/cover-c-05.png
+RL-C-06,Life in a Pond,Who lives above and below the surface,Reading Level C - Unit 6,Grades 2-3,C,32,#C0652B,covers/cover-c-06.png
+RL-C-07,Tools and Machines,From levers to wheels,Reading Level C - Unit 7,Grades 2-3,C,36,#C0652B,covers/cover-c-07.png
+RL-C-08,Night Sky,"Stars, planets and the moon",Reading Level C - Unit 8,Grades 2-3,C,40,#C0652B,covers/cover-c-08.png
+RL-D-01,Animals Near Home,Finding the creatures that share our streets,Reading Level D - Unit 1,Grades 3-4,D,44,#7D4FA3,covers/cover-d-01.png
+RL-D-02,Weather Watch,"Clouds, wind and what tomorrow brings",Reading Level D - Unit 2,Grades 3-4,D,48,#7D4FA3,covers/cover-d-02.png
+RL-D-03,Maps and Journeys,How people find their way,Reading Level D - Unit 3,Grades 3-4,D,40,#7D4FA3,covers/cover-d-03.png
+RL-D-04,Shapes All Around,"Spotting circles, squares and triangles",Reading Level D - Unit 4,Grades 3-4,D,44,#7D4FA3,covers/cover-d-04.png
+RL-D-05,Kitchen Science,Simple experiments with everyday things,Reading Level D - Unit 5,Grades 3-4,D,48,#7D4FA3,covers/cover-d-05.png
+RL-D-06,Life in a Pond,Who lives above and below the surface,Reading Level D - Unit 6,Grades 3-4,D,40,#7D4FA3,covers/cover-d-06.png
+RL-D-07,Tools and Machines,From levers to wheels,Reading Level D - Unit 7,Grades 3-4,D,44,#7D4FA3,covers/cover-d-07.png
+RL-D-08,Night Sky,"Stars, planets and the moon",Reading Level D - Unit 8,Grades 3-4,D,48,#7D4FA3,covers/cover-d-08.png
+RL-E-01,Animals Near Home,Finding the creatures that share our streets,Reading Level E - Unit 1,Grades 4-5,E,52,#B33A4B,covers/cover-e-01.png
+RL-E-02,Weather Watch,"Clouds, wind and what tomorrow brings",Reading Level E - Unit 2,Grades 4-5,E,56,#B33A4B,covers/cover-e-02.png
+RL-E-03,Maps and Journeys,How people find their way,Reading Level E - Unit 3,Grades 4-5,E,48,#B33A4B,covers/cover-e-03.png
+RL-E-04,Shapes All Around,"Spotting circles, squares and triangles",Reading Level E - Unit 4,Grades 4-5,E,52,#B33A4B,covers/cover-e-04.png
+RL-E-05,Kitchen Science,Simple experiments with everyday things,Reading Level E - Unit 5,Grades 4-5,E,56,#B33A4B,covers/cover-e-05.png
+RL-E-06,Life in a Pond,Who lives above and below the surface,Reading Level E - Unit 6,Grades 4-5,E,48,#B33A4B,covers/cover-e-06.png
+RL-E-07,Tools and Machines,From levers to wheels,Reading Level E - Unit 7,Grades 4-5,E,52,#B33A4B,covers/cover-e-07.png
+RL-E-08,Night Sky,"Stars, planets and the moon",Reading Level E - Unit 8,Grades 4-5,E,56,#B33A4B,covers/cover-e-08.png

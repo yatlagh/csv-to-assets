@@ -1,0 +1,22 @@
+{
+  "name": "card",
+  "size": [600, 800],
+  "background": { "color": "#F4F1EA" },
+  "elements": [
+    { "type": "rect",  "box": [0, 0, 600, 800], "fill": "{color}" },
+    { "type": "image", "box": [40, 40, 560, 520], "src": "{cover_image}", "fit": "cover", "radius": 18 },
+    { "type": "pill",  "box": [40, 60, 300, 100], "text": "{grade_band}", "fill": "#FFFFFF", "color": "#1F2933",
+      "font": "DejaVuSans-Bold", "size": 17, "padding": 16 },
+    { "type": "rect",  "box": [0, 540, 600, 800], "fill": "#FFFFFF" },
+    { "type": "text",  "box": [40, 568, 560, 596], "text": "{series}", "font": "DejaVuSans-Bold", "size": 15,
+      "color": "{color}", "max_lines": 1 },
+    { "type": "text",  "box": [40, 600, 560, 712], "text": "{title}", "font": "DejaVuSans-Bold", "size": 40,
+      "color": "#1F2933", "max_lines": 2, "leading": 1.15, "min_size": 24 },
+    { "type": "text",  "box": [40, 716, 560, 760], "text": "{subtitle}", "font": "DejaVuSans", "size": 18,
+      "color": "#52606D", "max_lines": 1 },
+    { "type": "text",  "box": [40, 764, 300, 784], "text": "Level {level}", "font": "DejaVuSans", "size": 13,
+      "color": "#9AA5B1", "max_lines": 1 },
+    { "type": "text",  "box": [300, 764, 560, 784], "text": "{pages} pages", "font": "DejaVuSans", "size": 13,
+      "color": "#9AA5B1", "align": "right", "max_lines": 1 }
+  ]
+}

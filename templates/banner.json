@@ -1,0 +1,20 @@
+{
+  "name": "banner",
+  "size": [1200, 628],
+  "background": { "color": "{color}" },
+  "elements": [
+    { "type": "rect",  "box": [0, 0, 1200, 628], "fill": "#000000", "opacity": 0.18 },
+    { "type": "rect",  "box": [60, 60, 1140, 568], "fill": "#FFFFFF", "radius": 28 },
+    { "type": "image", "box": [760, 100, 1100, 528], "src": "{cover_image}", "fit": "cover", "radius": 16 },
+    { "type": "pill",  "box": [100, 100, 500, 140], "text": "{grade_band}", "fill": "{color}",
+      "font": "DejaVuSans-Bold", "size": 16, "padding": 16 },
+    { "type": "text",  "box": [100, 160, 720, 196], "text": "{series}", "font": "DejaVuSans-Bold", "size": 20,
+      "color": "#7B8794", "max_lines": 1 },
+    { "type": "text",  "box": [100, 206, 720, 400], "text": "{title}", "font": "DejaVuSans-Bold", "size": 56,
+      "color": "#1F2933", "max_lines": 3, "leading": 1.1, "min_size": 30 },
+    { "type": "text",  "box": [100, 410, 720, 470], "text": "{subtitle}", "font": "DejaVuSans", "size": 24,
+      "color": "#52606D", "max_lines": 2 },
+    { "type": "text",  "box": [100, 500, 720, 528], "text": "Level {level}  ·  {pages} pages  ·  {id}",
+      "font": "DejaVuSans", "size": 16, "color": "#9AA5B1", "max_lines": 1, "valign": "bottom" }
+  ]
+}
