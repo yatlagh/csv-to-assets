@@ -36,7 +36,7 @@ dev = ["pytest>=7"]
 csv-to-assets = "csv_to_assets.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yassineatlagh/csv-to-assets"
+Homepage = "https://github.com/yatlagh/csv-to-assets"
 
 [tool.setuptools.packages.find]
 where = ["src"]

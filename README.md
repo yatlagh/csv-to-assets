@@ -9,7 +9,7 @@ Batch-generate PNG thumbnails and single-page PDFs from a CSV and a JSON layout 
 Requires Python 3.10+. The only runtime dependencies are Pillow and reportlab.
 
 ```bash
-git clone https://github.com/yassineatlagh/csv-to-assets
+git clone https://github.com/yatlagh/csv-to-assets
 cd csv-to-assets
 pip install -e ".[dev]"
 ```
