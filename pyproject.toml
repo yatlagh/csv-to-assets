@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "csv-to-assets"
+version = "0.1.0"
+description = "CSV-driven batch generation of PNG thumbnails and PDFs from JSON layout templates."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Yassine Atlagh", email = "yassine@yunik.io" }]
+requires-python = ">=3.10"
+keywords = ["csv", "batch", "pdf", "png", "thumbnails", "publishing", "pillow", "reportlab"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Multimedia :: Graphics",
+    "Topic :: Printing",
+]
+dependencies = [
+    "Pillow>=10.1",
+    "reportlab>=4.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+csv-to-assets = "csv_to_assets.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/yassineatlagh/csv-to-assets"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+csv_to_assets = ["fonts/*.ttf", "fonts/*.txt"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
